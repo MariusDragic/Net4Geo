@@ -8,7 +8,7 @@ Train and test dataset are too heavy to be uploaded on github. You can download 
 
 The project was developed as part of a Kaggle competition and achieved a score of `0.86120` on the validation dataset of Kaggle's CentraleSuélec competetion.
 
-A detailed report including theoretical background and extended results is available [here](https://github.com/MariusDragic/Net4Geo/blob/main/Net4Geo-report.pdf) for interested readers.
+A detailed report including theoretical background and extended results is available [here](https://github.com/MariusDragic/Net4Geo/blob/main/Net4Geo.pdf) for interested readers.
 
 ## Project Structure
 
